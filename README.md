@@ -31,9 +31,3 @@ An end-to-end Exploratory Data Analysis (EDA) project on Diwali sales data using
 
 ## Conclusion
 Unmarried women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from the Food, Clothing, and Electronics categories — making them the ideal target audience for future Diwali sales campaigns.
-
-## Files
-- `Diwali_Sales_Analysis.ipynb` – Jupyter notebook with full EDA workflow
-- `README.md` – Project documentation
-
-
