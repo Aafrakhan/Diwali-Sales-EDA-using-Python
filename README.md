@@ -1,4 +1,4 @@
-# Diwali Sales Data - Exploratory Data Analysis using Python
+# Diwali Sales Data - Exploratory Data Analysis 
 
 ## Overview
 An end-to-end Exploratory Data Analysis (EDA) project on Diwali sales data using Python. The dataset was cleaned and processed to ensure accuracy and consistency, followed by detailed analysis to uncover customer purchasing patterns and identify the target audience for Diwali sales campaigns.
