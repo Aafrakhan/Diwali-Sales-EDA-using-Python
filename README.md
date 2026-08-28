@@ -30,4 +30,4 @@ An end-to-end Exploratory Data Analysis (EDA) project on Diwali sales data using
 - Certain Product IDs (e.g., P00265242, P00110942, P00237542) recorded the highest total orders
 
 ## Conclusion
-Unmarried women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from the Food, Clothing, and Electronics categories — making them the ideal target audience for future Diwali sales campaigns.
+Unmarried women aged 26–35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more likely to purchase products from the Food, Clothing, and Electronics categories making them the ideal target audience for future Diwali sales campaigns.
